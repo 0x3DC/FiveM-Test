@@ -1,14 +1,15 @@
 {
   "kullanicilar": [
     {
-      "soyad": "Kaya",
       "email": "mehmet@ornek.com",
       "telefon": "5553456789",
       "rol": "editor",
       "kayitTarihi": "2024-02-15",
-      "Farkyok": "",
-      "hername": "",
-      "gaaf": ""
+      "Farkyok": "515215",
+      "hername": "252525",
+      "gaaf": "2525",
+      "isim": "ada",
+      "faw": "asdasd"
     }
   ]
 }
