@@ -1,0 +1,47 @@
+{
+  "urunler": [
+    {
+      "urunKodu": "PRD001",
+      "kategori": "Elektronik",
+      "urunAdi": "Gaming Laptop",
+      "marka": "TechPro",
+      "model": "GL500",
+      "fiyat": 25999.99,
+      "stokMiktari": 50,
+      "ozellikler": {
+        "islemci": "Intel i7",
+        "ram": "16GB",
+        "depolama": "1TB SSD",
+        "ekranBoyutu": "15.6 inch"
+      }
+    },
+    {
+      "urunKodu": "PRD002",
+      "kategori": "Elektronik",
+      "urunAdi": "Kablosuz Mouse",
+      "marka": "TechPro",
+      "model": "WM100",
+      "fiyat": 299.99,
+      "stokMiktari": 200,
+      "ozellikler": {
+        "dpi": "12000",
+        "baglantiTipi": "Bluetooth",
+        "pilOmru": "6 ay"
+      }
+    },
+    {
+      "urunKodu": "PRD003",
+      "kategori": "Elektronik",
+      "urunAdi": "Mekanik Klavye",
+      "marka": "TechPro",
+      "model": "MK200",
+      "fiyat": 1499.99,
+      "stokMiktari": 100,
+      "ozellikler": {
+        "switchTipi": "Blue",
+        "aydinlatma": "RGB",
+        "tusYapisi": "PBT"
+      }
+    }
+  ]
+} 

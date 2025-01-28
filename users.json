@@ -1,0 +1,34 @@
+{
+  "kullanicilar": [
+    {
+      "id": "1",
+      "kullaniciAdi": "ahmet_yilmaz",
+      "ad": "Ahmet",
+      "soyad": "Yılmaz",
+      "email": "ahmet@ornek.com",
+      "telefon": "5551234567",
+      "rol": "admin",
+      "kayitTarihi": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "kullaniciAdi": "ayse_demir",
+      "ad": "Ayşe",
+      "soyad": "Demir",
+      "email": "ayse@ornek.com",
+      "telefon": "5559876543",
+      "rol": "kullanici",
+      "kayitTarihi": "2024-02-01"
+    },
+    {
+      "id": "3",
+      "kullaniciAdi": "mehmet_kaya",
+      "ad": "Mehmet",
+      "soyad": "Kaya",
+      "email": "mehmet@ornek.com",
+      "telefon": "5553456789",
+      "rol": "editor",
+      "kayitTarihi": "2024-02-15"
+    }
+  ]
+} 
