@@ -1,14 +1,14 @@
 {
   "kullanicilar": [
     {
-      "kullaniciAdi": "mehmet_kaya",
-      "ad": "Mehmet",
       "soyad": "Kaya",
       "email": "mehmet@ornek.com",
       "telefon": "5553456789",
       "rol": "editor",
       "kayitTarihi": "2024-02-15",
-      "Farkyok": ""
+      "Farkyok": "",
+      "hername": "",
+      "gaaf": ""
     }
   ]
 }
