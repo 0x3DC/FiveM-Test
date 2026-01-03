@@ -1,0 +1,36 @@
+{
+  "cheats": [
+    {
+      "game": "Counter-Strike 2",
+      "server": "Official",
+      "state": "Online",
+      "cheatname": "Hylex Aimbot",
+      "version": "1.0.3",
+      "last": "2026-01-02",
+      "process": "cs2.exe",
+      "type": "Internal",
+      "logolink": "https://example.com/images/cs2.png",
+      "link": "https://example.com/download/cs2",
+      "topic": "https://forum.example.com/topic/123",
+      "about": "High accuracy legit aimbot with smooth aim.",
+      "exe": "hylex_cs2.exe",
+      "premium": "true"
+    },
+    {
+      "game": "Valorant",
+      "server": "Riot",
+      "state": "Maintenance",
+      "cheatname": "Hylex ESP",
+      "version": "2.1.0",
+      "last": "2026-01-01",
+      "process": "valorant.exe",
+      "type": "External",
+      "logolink": "https://example.com/images/valorant.png",
+      "link": "https://example.com/download/valorant",
+      "topic": "https://forum.example.com/topic/456",
+      "about": "ESP with box, health and distance.",
+      "exe": "hylex_valo.exe",
+      "premium": "false"
+    }
+  ]
+}
